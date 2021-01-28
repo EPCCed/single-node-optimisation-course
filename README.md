@@ -4,9 +4,9 @@
 
 # ARCHER2 Single Node Performance Optimisation Course Repository
 
-This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course.
+This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course, run on the 28th and 29th of January 2021.
 
-As the course changes over time, individual runs of the course are branches in this repository. To browse the lectures and exercise material choose one of the branches.
+This course was run by Adrian Jackson and Mark Bull.
 
 # Timetable
 
