@@ -4,6 +4,8 @@
 
 # ARCHER2 Single Node Performance Optimisation Course Repository
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course, run on the 28th and 29th of January 2021.
 
 This course was run by Adrian Jackson and Mark Bull.
@@ -34,3 +36,15 @@ This course was run by Adrian Jackson and Mark Bull.
 - 13.30 – 15.00 Vectorisation, Memory Hierarchy Optimisation
 - 15.00 – 15.30 Break
 - 15.30 – 16.30 Practical – memory and cache blocking 
+
+---
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
