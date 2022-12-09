@@ -1,4 +1,4 @@
-<img src="./img/archer2_logo.png"  width="355" height="100" align="left" /> <img src="./img/epcc_logo.png" align="right" width="133" height="100" />
+<img src="./img/archer2_logo.png"  width="355" height="100" align="left" /> <img src="./img/epcc_logo.png" align="right" width="200" height="53" />
 
 <br /><br /><br /><br />
 
@@ -6,7 +6,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course, run on the 7th and 8th of September 2021.
+This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course, run on the 13th and 14th of December 2022.
 
 # Timetable
 
