@@ -6,7 +6,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course, run on the 13th and 14th of December 2022.
+This is the repository for the slides and exercises for attendees of the ARCHER2 Single Node Performance Optimisation/Performance Optimisation on AMD EPYC course, run on the 21st and 22nd of October 2025.
 
 # Timetable
 
